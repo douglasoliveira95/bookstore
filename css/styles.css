@@ -1,0 +1,50 @@
+div#indexForm table {
+    border: 2px dashed black;
+    background-color: blue;
+    font-family: monospace;
+}
+
+div#indexForm td {
+    border: 1px solid red;
+    color: yellow;
+}
+
+div#indexForm th {
+    border: 1px solid black;
+    color: red;
+}
+
+div#bookForm label {
+    color: aqua;
+    font-size: 20px;
+}
+
+div#bookForm form {
+    border: 1px solid black;
+    padding: 30px;
+    width: 250px;
+    background-color: darkgray;
+}
+
+div#bookForm button {
+    font-style: 17px;
+    background-color: darkred;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+div#bookForm button:hover {
+    background-color: blue;
+}
+
+div#bookdetailForm {
+    background-color: red;
+}
+
+div#bookdetailForm form {
+    border: 1px solid black;
+    padding: 50px;
+    width: 300;
+}
+
+
